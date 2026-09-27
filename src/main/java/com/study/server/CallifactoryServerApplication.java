@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BasicServerApplication {
+public class CallifactoryServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BasicServerApplication.class, args);
+		SpringApplication.run(CallifactoryServerApplication.class, args);
 	}
 
 }

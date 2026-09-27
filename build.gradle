@@ -6,7 +6,7 @@ plugins {
 
 group = 'com.study'
 version = '0.0.1-SNAPSHOT'
-description = 'Basic server study'
+description = 'Callifactory server'
 
 java {
 	toolchain {
